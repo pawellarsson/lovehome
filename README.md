@@ -1,3 +1,19 @@
+Hello!
+
+For simplicity and to make it bit faster, I used create-react-app, please ignore all the extra bits the app is adding.
+
+To start the app we have to install the dependencies first.
+1. yarn install or npm install
+2. yarn start or npm start
+
+The app isen't finished as I feel 3 hours is enough for a test.
+Also I wasn't sure about the formula to use for the calculation.
+Output is in console.
+
+Kind regards
+Pawel
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
